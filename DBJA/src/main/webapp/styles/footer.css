@@ -1,0 +1,118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.footer-qEv {
+  box-sizing: border-box;
+  width: 100%;
+  height: 15.7rem;
+  overflow: hidden;
+  position: relative;
+/*  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+*/  background-color: #ffffff;
+}
+.footer-qEv .footer-ZAv {
+  box-sizing: border-box;
+  padding: 0rem 0rem 2rem 0rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+/*  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+*/}
+.footer-qEv .footer-ZAv .list-fjk {
+  margin-bottom: 1.95rem;
+  box-sizing: border-box;
+  padding: 1.55rem 79.1rem 1.75rem 78.3rem;
+  width: 100%;
+  height: 5.7rem;
+  border-top: solid 0.1rem #dee2e6;
+  border-bottom: solid 0.1rem #dee2e6;
+  flex-shrink: 0;
+    align-items: center;
+
+}
+.footer-qEv .footer-ZAv .list-fjk .list-Pve {
+  width: 100%;
+  padding-left: 5rem;
+  height: 5.7rem;
+  display: flex; 
+}
+.footer-qEv .footer-ZAv .list-fjk .list-Pve .main {
+  padding-right: 3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.footer-qEv .footer-ZAv .list-fjk .list-Pve .travel {
+  padding-right: 3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.footer-qEv .footer-ZAv .list-fjk .list-Pve .information {
+  padding-right: 3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.footer-qEv .footer-ZAv .list-fjk .list-Pve .board {
+  padding-right: 3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.footer-qEv .footer-ZAv .list-fjk .list-Pve .FandQ {
+  padding-right: 3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.footer-qEv .footer-ZAv .travlan-FtJ {
+  margin-left: 1.054rem;
+  display: flex;
+    padding-left: 9.1rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
